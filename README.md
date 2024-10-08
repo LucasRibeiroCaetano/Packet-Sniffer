@@ -14,4 +14,4 @@ A simple packet sniffer application written in Python using the Scapy library. T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/packet-sniffer.git
+   git clone https://github.com/LucasRibeiroCaetano/Packet-Sniffer
